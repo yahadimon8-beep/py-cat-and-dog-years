@@ -18,4 +18,6 @@ def get_human_age(cat_age: int, dog_age: int) -> list:
         get_human_age(15, 15) == [1, 1]
         get_human_age(24, 24) == [2, 2]
     """
+    # TODO: implement the function to convert cat and dog ages
+    # to human years based on the rules provided.
     return [0, 0]
